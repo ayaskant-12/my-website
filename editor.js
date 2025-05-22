@@ -26,7 +26,7 @@ themeToggle?.addEventListener("click", () => {
 });
 
 function goBack() {
-    window.location.href = "landing.html"; // Or use window.history.back();
+    window.location.href = "index.html"; // Or use window.history.back();
 }
 
 let brightness = 100, saturation = 100, inversion = 0, grayscale = 0;
