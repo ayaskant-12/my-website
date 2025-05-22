@@ -150,5 +150,5 @@ themeToggle.addEventListener("click", toggleTheme);
 
 function goBack() {
     // Change the URL as needed
-    window.location.href = "landing.html";
+    window.location.href = "index.html";
 }
